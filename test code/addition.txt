@@ -1,4 +1,6 @@
-int a -a
-int b=b
+
+int a -aaa
+int b=fgdfgdf
+>>>>>>> c94cc5c77b2c45f201fc48ad48ae41730ca1d7db
 int c=3
 int d=5
