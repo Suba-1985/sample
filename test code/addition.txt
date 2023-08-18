@@ -1,5 +1,5 @@
 
-int a -aaa
+int a -pavisuba
 int b=fgdfgdf
 >>>>>>> c94cc5c77b2c45f201fc48ad48ae41730ca1d7db
 int c=3
